@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <updates>
-
     <projectm>
-
         <update
             updateVersion="4.00"
             length="547051"
@@ -14,11 +12,9 @@
             </baseVersionsSupported>
 
             <url>
-                https://dccbrawlmain.github.io/projectrx-update/projectrx.zip
+https://dccrx.github.io/projectrx-update/projectrx.zip
             </url>
 
         </update>
-
     </projectm>
-
 </updates>
