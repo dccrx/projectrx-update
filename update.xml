@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<updates>
+
+    <projectm>
+
+        <update updateVersion="4.00">
+
+            <baseVersionsSupported>
+                <baseVersion>*</baseVersion>
+            </baseVersionsSupported>
+
+            <url>
+                https://dccbrawlmain.github.io/projectrx-update/projectrx.zip
+            </url>
+
+        </update>
+
+    </projectm>
+
+</updates>
