@@ -4,7 +4,10 @@
 
     <projectm>
 
-        <update updateVersion="4.00">
+        <update
+            updateVersion="4.00"
+            length="547051"
+            md5="ce7bf302e0eacbc192a587e75e698ab">
 
             <baseVersionsSupported>
                 <baseVersion>*</baseVersion>
